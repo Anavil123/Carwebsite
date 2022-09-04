@@ -2,6 +2,8 @@
 This is the general basic website for the car that you can buy that is readily available in the market
 this website is build using html , javascript , css etc
 Here are some picture available for the website: 
+
+
 ![c1](https://user-images.githubusercontent.com/104727775/188311188-d0fe5f19-82ee-4562-b492-b730617ab674.JPG)
 ![c2](https://user-images.githubusercontent.com/104727775/188311192-1c9acebe-e85b-467c-8dbb-87db4674ba54.JPG)
 ![c3](https://user-imag
